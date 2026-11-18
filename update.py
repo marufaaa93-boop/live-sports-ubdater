@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 
 # এখানে আপনার অনুমোদিত ডাটা সোর্স বা এপিআই লিংক বসান
-SOURCE_URL = "https://your-authorized-api-or-source.com"
+SOURCE_URL = "https://raw.githubusercontent.com/snabisnabi342-ops/Tv1-/refs/heads/main/Bein.m3u"
 
 def update_playlist():
     try:
