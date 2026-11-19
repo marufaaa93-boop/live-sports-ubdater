@@ -1,34 +1,10 @@
 {
-  "last_updated": "2026-11-19 06:53:29 UTC",
+  "last_updated": "2026-11-19 08:13:05 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:16:25 PM 19-11-2026",
+    "last update time": "01:38:58 PM 19-11-2026",
     "matches": [
-      {
-        "event_category": "Cricket",
-        "match_id": 4250650,
-        "title": "Bangladesh vs South Africa (Bangladesh tour of South Africa, 2026)",
-        "match_name": "Bangladesh vs South Africa",
-        "event_name": "Bangladesh tour of South Africa, 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SA_Test_fc-web_1794644019035.jpg",
-        "team_1": "Bangladesh",
-        "team_2": "South Africa",
-        "status": "PAUSED",
-        "startTime": "01:30:00 PM 15-11-2026"
-      },
-      {
-        "event_category": "Cricket",
-        "match_id": 4250413,
-        "title": "Brisbane Heat Women vs Sydney Thunder Women (Women's Big Bash League, 2026)",
-        "match_name": "Brisbane Heat Women vs Sydney Thunder Women",
-        "event_name": "Women's Big Bash League, 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4250413_53125_BH-W_ST-W_fc-web_1793352701339.jpg",
-        "team_1": "Brisbane Heat Women",
-        "team_2": "Sydney Thunder Women",
-        "status": "UPCOMING",
-        "startTime": "01:40:00 PM 19-11-2026"
-      },
       {
         "event_category": "Cricket",
         "match_id": 4250385,
@@ -55,30 +31,6 @@
       },
       {
         "event_category": "Cricket",
-        "match_id": 4250898,
-        "title": "Ghubra Giants Women vs Wadi Kabir Royals Women (Oman Women's D20, 2026)",
-        "match_name": "Ghubra Giants Women vs Wadi Kabir Royals Women",
-        "event_name": "Oman Women's D20, 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-        "team_1": "Ghubra Giants Women",
-        "team_2": "Wadi Kabir Royals Women",
-        "status": "UPCOMING",
-        "startTime": "04:00:00 PM 19-11-2026"
-      },
-      {
-        "event_category": "Cricket",
-        "match_id": 4250899,
-        "title": "OCA Strikers Women vs Danube Titans  Women (Oman Women's D20, 2026)",
-        "match_name": "OCA Strikers Women vs Danube Titans  Women",
-        "event_name": "Oman Women's D20, 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-        "team_1": "OCA Strikers Women",
-        "team_2": "Danube Titans  Women",
-        "status": "UPCOMING",
-        "startTime": "08:30:00 PM 19-11-2026"
-      },
-      {
-        "event_category": "Cricket",
         "match_id": 4250679,
         "title": "TBC vs TBC (ICC Women's Emerging Nations Trophy, 2026)",
         "match_name": "TBC vs TBC",
@@ -100,6 +52,30 @@
         "team_2": "TBC",
         "status": "UPCOMING",
         "startTime": "10:30:00 AM 20-11-2026"
+      },
+      {
+        "event_category": "Cricket",
+        "match_id": 4250898,
+        "title": "Ghubra Giants Women vs Wadi Kabir Royals Women (Oman Women's D20, 2026)",
+        "match_name": "Ghubra Giants Women vs Wadi Kabir Royals Women",
+        "event_name": "Oman Women's D20, 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
+        "team_1": "Ghubra Giants Women",
+        "team_2": "Wadi Kabir Royals Women",
+        "status": "UPCOMING",
+        "startTime": "04:00:00 PM 19-11-2026"
+      },
+      {
+        "event_category": "Cricket",
+        "match_id": 4250899,
+        "title": "OCA Strikers Women vs Danube Titans  Women (Oman Women's D20, 2026)",
+        "match_name": "OCA Strikers Women vs Danube Titans  Women",
+        "event_name": "Oman Women's D20, 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
+        "team_1": "OCA Strikers Women",
+        "team_2": "Danube Titans  Women",
+        "status": "UPCOMING",
+        "startTime": "08:30:00 PM 19-11-2026"
       },
       {
         "event_category": "Football",
@@ -198,6 +174,30 @@
         "startTime": "11:30:00 AM 20-11-2026"
       },
       {
+        "event_category": "Cricket",
+        "match_id": 4251134,
+        "title": "Milan Icons vs Brescia Lions (Italia T10 2026)",
+        "match_name": "Milan Icons vs Brescia Lions",
+        "event_name": "Italia T10 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "team_1": "Milan Icons",
+        "team_2": "Brescia Lions",
+        "status": "UPCOMING",
+        "startTime": "04:30:00 PM 20-11-2026"
+      },
+      {
+        "event_category": "Cricket",
+        "match_id": 4250901,
+        "title": "Muscat Shaheens  Women vs Ghubra Giants Women (Oman Women's D20, 2026)",
+        "match_name": "Muscat Shaheens  Women vs Ghubra Giants Women",
+        "event_name": "Oman Women's D20, 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
+        "team_1": "Muscat Shaheens  Women",
+        "team_2": "Ghubra Giants Women",
+        "status": "UPCOMING",
+        "startTime": "04:00:00 PM 20-11-2026"
+      },
+      {
         "event_category": "Tennis",
         "match_id": 4250729,
         "title": "Men's Doubles vs Turin, Italy (Nitto ATP Finals 2026)",
@@ -283,15 +283,15 @@
       },
       {
         "event_category": "Cricket",
-        "match_id": 4250901,
-        "title": "Muscat Shaheens  Women vs Ghubra Giants Women (Oman Women's D20, 2026)",
-        "match_name": "Muscat Shaheens  Women vs Ghubra Giants Women",
-        "event_name": "Oman Women's D20, 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-        "team_1": "Muscat Shaheens  Women",
-        "team_2": "Ghubra Giants Women",
+        "match_id": 4251135,
+        "title": "Rome Gladiators vs Napoli Knights (Italia T10 2026)",
+        "match_name": "Rome Gladiators vs Napoli Knights",
+        "event_name": "Italia T10 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "team_1": "Rome Gladiators",
+        "team_2": "Napoli Knights",
         "status": "UPCOMING",
-        "startTime": "04:00:00 PM 20-11-2026"
+        "startTime": "06:45:00 PM 20-11-2026"
       },
       {
         "event_category": "Formula 1",
@@ -390,18 +390,6 @@
         "startTime": "02:30:00 PM 20-11-2026"
       },
       {
-        "event_category": "Golf",
-        "match_id": 4251083,
-        "title": "Day 1 - Featured Groups vs St. Simons Island, Georgia (The RSM Classic 2026)",
-        "match_name": "Day 1 - Featured Groups",
-        "event_name": "The RSM Classic 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic-2026_Web_1080_x_810_1794325334537.jpg",
-        "team_1": "Day 1 - Featured Groups",
-        "team_2": "St. Simons Island, Georgia",
-        "status": "UPCOMING",
-        "startTime": "07:00:00 PM 19-11-2026"
-      },
-      {
         "event_category": "Motorsports",
         "match_id": 4251123,
         "title": "Race 2 - Coppa Shell vs Barcelona, Spain (Ferrari Challenge Series 2026)",
@@ -412,6 +400,18 @@
         "team_2": "Barcelona, Spain",
         "status": "UPCOMING",
         "startTime": "02:45:00 PM 20-11-2026"
+      },
+      {
+        "event_category": "Golf",
+        "match_id": 4251083,
+        "title": "Day 1 - Featured Groups vs St. Simons Island, Georgia (The RSM Classic 2026)",
+        "match_name": "Day 1 - Featured Groups",
+        "event_name": "The RSM Classic 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic-2026_Web_1080_x_810_1794325334537.jpg",
+        "team_1": "Day 1 - Featured Groups",
+        "team_2": "St. Simons Island, Georgia",
+        "status": "UPCOMING",
+        "startTime": "07:00:00 PM 19-11-2026"
       },
       {
         "event_category": "Badminton",
@@ -448,18 +448,6 @@
         "team_2": "Barcelona, Spain",
         "status": "UPCOMING",
         "startTime": "05:15:00 PM 20-11-2026"
-      },
-      {
-        "event_category": "Football",
-        "match_id": 4250964,
-        "title": "Al-Ahli Saudi FC vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
-        "match_name": "Al-Ahli Saudi FC vs Al-Nassr FC",
-        "event_name": "Roshn Saudi League 2026-2027",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4250964_53025_AAS_ANF_FC-Web.png",
-        "team_1": "Al-Ahli Saudi FC",
-        "team_2": "Al-Nassr FC",
-        "status": "UPCOMING",
-        "startTime": "11:00:00 PM 20-11-2026"
       }
     ]
   }
