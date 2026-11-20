@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-20 01:52:33 UTC",
+  "last_updated": "2026-11-20 02:40:59 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:08:14 AM 20-11-2026",
+    "last update time": "07:59:14 AM 20-11-2026",
     "matches": [
       {
         "event_category": "Cricket",
@@ -150,28 +150,16 @@
         "startTime": "01:30:00 AM 21-11-2026"
       },
       {
-        "event_category": "Motorsports",
-        "match_id": 139700,
-        "title": "Practice Session vs Las Vegas (F1 ACADEMY LAS VEGAS 2026)",
-        "match_name": "Practice Session",
-        "event_name": "F1 ACADEMY LAS VEGAS 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-ACADEMY-LAS-VEGAS-2026_web.jpg",
-        "team_1": "Practice Session",
-        "team_2": "Las Vegas",
+        "event_category": "Badminton",
+        "match_id": 4250635,
+        "title": "Quarter-Final 1 vs Hong Kong (BWF Super 500 - LI-NING Hong Kong Open 2026)",
+        "match_name": "Quarter-Final 1",
+        "event_name": "BWF Super 500 - LI-NING Hong Kong Open 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Open_BWF-Super-500_fc-web.jpg",
+        "team_1": "Quarter-Final 1",
+        "team_2": "Hong Kong",
         "status": "UPCOMING",
-        "startTime": "07:30:00 AM 20-11-2026"
-      },
-      {
-        "event_category": "Football",
-        "match_id": 4249806,
-        "title": "Barnsley FC vs Sheffield Wednesday F.C. (League One 2026-27)",
-        "match_name": "Barnsley FC vs Sheffield Wednesday F.C.",
-        "event_name": "League One 2026-27",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "team_1": "Barnsley FC",
-        "team_2": "Sheffield Wednesday F.C.",
-        "status": "UPCOMING",
-        "startTime": "01:30:00 AM 21-11-2026"
+        "startTime": "08:30:00 AM 20-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -186,16 +174,16 @@
         "startTime": "10:00:00 AM 21-11-2026"
       },
       {
-        "event_category": "Badminton",
-        "match_id": 4250635,
-        "title": "Quarter-Final 1 vs Hong Kong (BWF Super 500 - LI-NING Hong Kong Open 2026)",
-        "match_name": "Quarter-Final 1",
-        "event_name": "BWF Super 500 - LI-NING Hong Kong Open 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Open_BWF-Super-500_fc-web.jpg",
-        "team_1": "Quarter-Final 1",
-        "team_2": "Hong Kong",
+        "event_category": "Football",
+        "match_id": 4249806,
+        "title": "Barnsley FC vs Sheffield Wednesday F.C. (League One 2026-27)",
+        "match_name": "Barnsley FC vs Sheffield Wednesday F.C.",
+        "event_name": "League One 2026-27",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "team_1": "Barnsley FC",
+        "team_2": "Sheffield Wednesday F.C.",
         "status": "UPCOMING",
-        "startTime": "08:30:00 AM 20-11-2026"
+        "startTime": "01:30:00 AM 21-11-2026"
       },
       {
         "event_category": "Formula 1",
@@ -232,6 +220,18 @@
         "team_2": "Adelaide United",
         "status": "UPCOMING",
         "startTime": "02:10:00 PM 20-11-2026"
+      },
+      {
+        "event_category": "Cricket",
+        "match_id": 4250643,
+        "title": "Australia vs England (England tour of Australia, 2026)",
+        "match_name": "Australia vs England",
+        "event_name": "England tour of Australia, 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/wevb.png",
+        "team_1": "Australia",
+        "team_2": "England",
+        "status": "UPCOMING",
+        "startTime": "01:45:00 PM 21-11-2026"
       },
       {
         "event_category": "MotoGP",
@@ -306,6 +306,18 @@
         "startTime": "06:30:00 PM 20-11-2026"
       },
       {
+        "event_category": "Cricket",
+        "match_id": 4250903,
+        "title": "Muscat Shaheens  Women vs Sohar Smashers Women (Oman Women's D20, 2026)",
+        "match_name": "Muscat Shaheens  Women vs Sohar Smashers Women",
+        "event_name": "Oman Women's D20, 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
+        "team_1": "Muscat Shaheens  Women",
+        "team_2": "Sohar Smashers Women",
+        "status": "UPCOMING",
+        "startTime": "11:30:00 AM 21-11-2026"
+      },
+      {
         "event_category": "Golf",
         "match_id": 4250734,
         "title": "Day 2 - World Feed vs St. Simons Island, Georgia (The RSM Classic 2026)",
@@ -328,30 +340,6 @@
         "team_2": "Turin, Italy",
         "status": "UPCOMING",
         "startTime": "10:30:00 PM 20-11-2026"
-      },
-      {
-        "event_category": "Cricket",
-        "match_id": 4250643,
-        "title": "Australia vs England (England tour of Australia, 2026)",
-        "match_name": "Australia vs England",
-        "event_name": "England tour of Australia, 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/wevb.png",
-        "team_1": "Australia",
-        "team_2": "England",
-        "status": "UPCOMING",
-        "startTime": "01:45:00 PM 21-11-2026"
-      },
-      {
-        "event_category": "Cricket",
-        "match_id": 4250903,
-        "title": "Muscat Shaheens  Women vs Sohar Smashers Women (Oman Women's D20, 2026)",
-        "match_name": "Muscat Shaheens  Women vs Sohar Smashers Women",
-        "event_name": "Oman Women's D20, 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-        "team_1": "Muscat Shaheens  Women",
-        "team_2": "Sohar Smashers Women",
-        "status": "UPCOMING",
-        "startTime": "11:30:00 AM 21-11-2026"
       },
       {
         "event_category": "Tennis",
@@ -378,18 +366,6 @@
         "startTime": "06:00:00 AM 21-11-2026"
       },
       {
-        "event_category": "Badminton",
-        "match_id": 4250637,
-        "title": "Semi-Final 1 vs Hong Kong (BWF Super 500 - LI-NING Hong Kong Open 2026)",
-        "match_name": "Semi-Final 1",
-        "event_name": "BWF Super 500 - LI-NING Hong Kong Open 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Open_BWF-Super-500_fc-web.jpg",
-        "team_1": "Semi-Final 1",
-        "team_2": "Hong Kong",
-        "status": "UPCOMING",
-        "startTime": "07:30:00 AM 21-11-2026"
-      },
-      {
         "event_category": "Cricket",
         "match_id": 4250386,
         "title": "Lumbini Lions vs Sudurpaschim Royals (Nepal Premier League Season 3, 2026)",
@@ -412,6 +388,18 @@
         "team_2": "Sub Saharan Africa",
         "status": "UPCOMING",
         "startTime": "02:30:00 PM 21-11-2026"
+      },
+      {
+        "event_category": "Badminton",
+        "match_id": 4250637,
+        "title": "Semi-Final 1 vs Hong Kong (BWF Super 500 - LI-NING Hong Kong Open 2026)",
+        "match_name": "Semi-Final 1",
+        "event_name": "BWF Super 500 - LI-NING Hong Kong Open 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Open_BWF-Super-500_fc-web.jpg",
+        "team_1": "Semi-Final 1",
+        "team_2": "Hong Kong",
+        "status": "UPCOMING",
+        "startTime": "07:30:00 AM 21-11-2026"
       },
       {
         "event_category": "Motorsports",
@@ -450,18 +438,6 @@
         "startTime": "09:30:00 AM 21-11-2026"
       },
       {
-        "event_category": "Golf",
-        "match_id": 4251084,
-        "title": "Day 2 - Featured Groups vs St. Simons Island, Georgia (The RSM Classic 2026)",
-        "match_name": "Day 2 - Featured Groups",
-        "event_name": "The RSM Classic 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic-2026_Web_1080_x_810_1794325334537.jpg",
-        "team_1": "Day 2 - Featured Groups",
-        "team_2": "St. Simons Island, Georgia",
-        "status": "UPCOMING",
-        "startTime": "07:00:00 PM 20-11-2026"
-      },
-      {
         "event_category": "Cricket",
         "match_id": 4250904,
         "title": "OCA Strikers Women vs Muscat Thunders Women (Oman Women's D20, 2026)",
@@ -472,6 +448,30 @@
         "team_2": "Muscat Thunders Women",
         "status": "UPCOMING",
         "startTime": "04:00:00 PM 21-11-2026"
+      },
+      {
+        "event_category": "Cricket",
+        "match_id": 4251136,
+        "title": "Brescia Lions vs Napoli Knights (Italia T10 2026)",
+        "match_name": "Brescia Lions vs Napoli Knights",
+        "event_name": "Italia T10 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4251136_53165_BL_NP_fc-web.jpg",
+        "team_1": "Brescia Lions",
+        "team_2": "Napoli Knights",
+        "status": "UPCOMING",
+        "startTime": "04:30:00 PM 21-11-2026"
+      },
+      {
+        "event_category": "Golf",
+        "match_id": 4251084,
+        "title": "Day 2 - Featured Groups vs St. Simons Island, Georgia (The RSM Classic 2026)",
+        "match_name": "Day 2 - Featured Groups",
+        "event_name": "The RSM Classic 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic-2026_Web_1080_x_810_1794325334537.jpg",
+        "team_1": "Day 2 - Featured Groups",
+        "team_2": "St. Simons Island, Georgia",
+        "status": "UPCOMING",
+        "startTime": "07:00:00 PM 20-11-2026"
       }
     ]
   }
