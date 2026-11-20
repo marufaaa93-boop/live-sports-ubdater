@@ -1,34 +1,10 @@
 {
-  "last_updated": "2026-11-20 04:38:54 UTC",
+  "last_updated": "2026-11-20 05:40:44 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:02:37 AM 20-11-2026",
+    "last update time": "10:33:48 AM 20-11-2026",
     "matches": [
-      {
-        "event_category": "Cricket",
-        "match_id": 4250679,
-        "title": "Scotland Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2026)",
-        "match_name": "Scotland Women vs Netherlands Women",
-        "event_name": "ICC Women's Emerging Nations Trophy, 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC_Womens_Emerging_2026_FC-WEB.jpg",
-        "team_1": "Scotland Women",
-        "team_2": "Netherlands Women",
-        "status": "UPCOMING",
-        "startTime": "10:30:00 AM 20-11-2026"
-      },
-      {
-        "event_category": "Cricket",
-        "match_id": 4250680,
-        "title": "Sri Lanka Women vs Zimbabwe Women (ICC Women's Emerging Nations Trophy, 2026)",
-        "match_name": "Sri Lanka Women vs Zimbabwe Women",
-        "event_name": "ICC Women's Emerging Nations Trophy, 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC_Womens_Emerging_2026_FC-WEB.jpg",
-        "team_1": "Sri Lanka Women",
-        "team_2": "Zimbabwe Women",
-        "status": "UPCOMING",
-        "startTime": "10:30:00 AM 20-11-2026"
-      },
       {
         "event_category": "Cricket",
         "match_id": 4250414,
@@ -55,18 +31,6 @@
       },
       {
         "event_category": "Cricket",
-        "match_id": 4250415,
-        "title": "Hobart Hurricanes Women vs Sydney Thunder Women (Women's Big Bash League, 2026)",
-        "match_name": "Hobart Hurricanes Women vs Sydney Thunder Women",
-        "event_name": "Women's Big Bash League, 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4250415_53125_HB-W_ST-W_fc-web_1793352702023.jpg",
-        "team_1": "Hobart Hurricanes Women",
-        "team_2": "Sydney Thunder Women",
-        "status": "UPCOMING",
-        "startTime": "06:30:00 AM 21-11-2026"
-      },
-      {
-        "event_category": "Cricket",
         "match_id": 4250900,
         "title": "Muscat Thunders Women vs Sohar Smashers Women (Oman Women's D20, 2026)",
         "match_name": "Muscat Thunders Women vs Sohar Smashers Women",
@@ -76,6 +40,18 @@
         "team_2": "Sohar Smashers Women",
         "status": "UPCOMING",
         "startTime": "11:30:00 AM 20-11-2026"
+      },
+      {
+        "event_category": "Cricket",
+        "match_id": 4250415,
+        "title": "Hobart Hurricanes Women vs Sydney Thunder Women (Women's Big Bash League, 2026)",
+        "match_name": "Hobart Hurricanes Women vs Sydney Thunder Women",
+        "event_name": "Women's Big Bash League, 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4250415_53125_HB-W_ST-W_fc-web_1793352702023.jpg",
+        "team_1": "Hobart Hurricanes Women",
+        "team_2": "Sydney Thunder Women",
+        "status": "UPCOMING",
+        "startTime": "06:30:00 AM 21-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -243,7 +219,7 @@
         "team_1": "Race 2 - Coppa Shell",
         "team_2": "Barcelona, Spain",
         "status": "UPCOMING",
-        "startTime": "02:45:00 PM 20-11-2026"
+        "startTime": "02:30:00 PM 20-11-2026"
       },
       {
         "event_category": "Badminton",
@@ -318,18 +294,6 @@
         "startTime": "10:30:00 PM 20-11-2026"
       },
       {
-        "event_category": "Tennis",
-        "match_id": 4250944,
-        "title": "Nitto ATP Finals 2026 vs Turin, Italy (Nitto ATP Finals 2026)",
-        "match_name": "Nitto ATP Finals 2026",
-        "event_name": "Nitto ATP Finals 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
-        "team_1": "Nitto ATP Finals 2026",
-        "team_2": "Turin, Italy",
-        "status": "UPCOMING",
-        "startTime": "01:00:00 AM 21-11-2026"
-      },
-      {
         "event_category": "Cricket",
         "match_id": 4250386,
         "title": "Lumbini Lions vs Sudurpaschim Royals (Nepal Premier League Season 3, 2026)",
@@ -340,6 +304,18 @@
         "team_2": "Sudurpaschim Royals",
         "status": "UPCOMING",
         "startTime": "04:45:00 PM 21-11-2026"
+      },
+      {
+        "event_category": "Tennis",
+        "match_id": 4250944,
+        "title": "Nitto ATP Finals 2026 vs Turin, Italy (Nitto ATP Finals 2026)",
+        "match_name": "Nitto ATP Finals 2026",
+        "event_name": "Nitto ATP Finals 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
+        "team_1": "Nitto ATP Finals 2026",
+        "team_2": "Turin, Italy",
+        "status": "UPCOMING",
+        "startTime": "01:00:00 AM 21-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -366,6 +342,18 @@
         "startTime": "06:00:00 AM 21-11-2026"
       },
       {
+        "event_category": "Cricket",
+        "match_id": 4250904,
+        "title": "OCA Strikers Women vs Muscat Thunders Women (Oman Women's D20, 2026)",
+        "match_name": "OCA Strikers Women vs Muscat Thunders Women",
+        "event_name": "Oman Women's D20, 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
+        "team_1": "OCA Strikers Women",
+        "team_2": "Muscat Thunders Women",
+        "status": "UPCOMING",
+        "startTime": "04:00:00 PM 21-11-2026"
+      },
+      {
         "event_category": "Badminton",
         "match_id": 4250637,
         "title": "Semi-Final 1 vs Hong Kong (BWF Super 500 - LI-NING Hong Kong Open 2026)",
@@ -388,18 +376,6 @@
         "team_2": "Las Vegas",
         "status": "UPCOMING",
         "startTime": "07:45:00 AM 21-11-2026"
-      },
-      {
-        "event_category": "Cricket",
-        "match_id": 4250904,
-        "title": "OCA Strikers Women vs Muscat Thunders Women (Oman Women's D20, 2026)",
-        "match_name": "OCA Strikers Women vs Muscat Thunders Women",
-        "event_name": "Oman Women's D20, 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-        "team_1": "OCA Strikers Women",
-        "team_2": "Muscat Thunders Women",
-        "status": "UPCOMING",
-        "startTime": "04:00:00 PM 21-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -439,18 +415,6 @@
       },
       {
         "event_category": "Football",
-        "match_id": 4249860,
-        "title": "Central Coast Mariners vs Perth Glory (A-League 2026-27)",
-        "match_name": "Central Coast Mariners vs Perth Glory",
-        "event_name": "A-League 2026-27",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249860_53101_CCM_PG_fc-Web_1792223292229.jpg",
-        "team_1": "Central Coast Mariners",
-        "team_2": "Perth Glory",
-        "status": "UPCOMING",
-        "startTime": "11:30:00 AM 21-11-2026"
-      },
-      {
-        "event_category": "Football",
         "match_id": 4250011,
         "title": "Millwall F.C. vs Queens Park Rangers F.C. (EFL Championship 2026-27)",
         "match_name": "Millwall F.C. vs Queens Park Rangers F.C.",
@@ -460,6 +424,18 @@
         "team_2": "Queens Park Rangers F.C.",
         "status": "UPCOMING",
         "startTime": "06:00:00 PM 21-11-2026"
+      },
+      {
+        "event_category": "Football",
+        "match_id": 4249860,
+        "title": "Central Coast Mariners vs Perth Glory (A-League 2026-27)",
+        "match_name": "Central Coast Mariners vs Perth Glory",
+        "event_name": "A-League 2026-27",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249860_53101_CCM_PG_fc-Web_1792223292229.jpg",
+        "team_1": "Central Coast Mariners",
+        "team_2": "Perth Glory",
+        "status": "UPCOMING",
+        "startTime": "11:30:00 AM 21-11-2026"
       }
     ]
   }
