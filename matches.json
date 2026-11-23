@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-23 19:27:57 UTC",
+  "last_updated": "2026-11-23 20:20:16 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:46:25 AM 24-11-2026",
+    "last update time": "01:48:44 AM 24-11-2026",
     "matches": [
       {
         "event_category": "Cricket",
@@ -76,18 +76,6 @@
         "team_2": "Rome Gladiators",
         "status": "UPCOMING",
         "startTime": "04:30:00 PM 24-11-2026"
-      },
-      {
-        "event_category": "Football",
-        "match_id": 4247690,
-        "title": "Levante vs Elche CF (LALIGA 2026-27)",
-        "match_name": "Levante vs Elche CF",
-        "event_name": "LALIGA 2026-27",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4247690_53004_LET_ELC_FC-Web.png",
-        "team_1": "Levante",
-        "team_2": "Elche CF",
-        "status": "UPCOMING",
-        "startTime": "01:30:00 AM 24-11-2026"
       },
       {
         "event_category": "Cricket",
