@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-23 21:15:13 UTC",
+  "last_updated": "2026-11-23 22:15:19 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:29:55 AM 24-11-2026",
+    "last update time": "03:41:58 AM 24-11-2026",
     "matches": [
       {
         "event_category": "Cricket",
@@ -174,18 +174,6 @@
         "startTime": "05:45:00 PM 24-11-2026"
       },
       {
-        "event_category": "Football",
-        "match_id": 4249023,
-        "title": "East Bengal FC vs Al Hussein (AFC Champions League Two 2026-27)",
-        "match_name": "East Bengal FC vs Al Hussein",
-        "event_name": "AFC Champions League Two 2026-27",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249023_53057_EBFC_HUS_fc-web_1789025065613.jpg",
-        "team_1": "East Bengal FC",
-        "team_2": "Al Hussein",
-        "status": "UPCOMING",
-        "startTime": "07:15:00 PM 24-11-2026"
-      },
-      {
         "event_category": "Cricket",
         "match_id": 4251053,
         "title": "Gulf Giants vs MI Emirates (DP World ILT20 2026)",
@@ -196,6 +184,18 @@
         "team_2": "MI Emirates",
         "status": "UPCOMING",
         "startTime": "08:00:00 PM 24-11-2026"
+      },
+      {
+        "event_category": "Football",
+        "match_id": 4249023,
+        "title": "East Bengal FC vs Al Hussein (AFC Champions League Two 2026-27)",
+        "match_name": "East Bengal FC vs Al Hussein",
+        "event_name": "AFC Champions League Two 2026-27",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249023_53057_EBFC_HUS_fc-web_1789025065613.jpg",
+        "team_1": "East Bengal FC",
+        "team_2": "Al Hussein",
+        "status": "UPCOMING",
+        "startTime": "07:15:00 PM 24-11-2026"
       },
       {
         "event_category": "Football",
@@ -460,6 +460,18 @@
         "team_2": "Al Rayyan",
         "status": "UPCOMING",
         "startTime": "09:30:00 PM 25-11-2026"
+      },
+      {
+        "event_category": "Football",
+        "match_id": 4249022,
+        "title": "Al-Taawoun FC vs Al-Nahda Club (AFC Champions League Two 2026-27)",
+        "match_name": "Al-Taawoun FC vs Al-Nahda Club",
+        "event_name": "AFC Champions League Two 2026-27",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249022_53057_ALTW_ALN_fc-web_1789025065804.jpg",
+        "team_1": "Al-Taawoun FC",
+        "team_2": "Al-Nahda Club",
+        "status": "UPCOMING",
+        "startTime": "11:45:00 PM 25-11-2026"
       }
     ]
   }
