@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-24 19:42:43 UTC",
+  "last_updated": "2026-11-24 20:31:54 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:59:47 AM 25-11-2026",
+    "last update time": "01:51:03 AM 25-11-2026",
     "matches": [
       {
         "event_category": "Cricket",
@@ -88,18 +88,6 @@
         "team_2": "Napoli Knights",
         "status": "UPCOMING",
         "startTime": "04:30:00 PM 25-11-2026"
-      },
-      {
-        "event_category": "Football",
-        "match_id": 4250014,
-        "title": "Wolverhampton Wanderers F.C. vs Derby County Football Club (EFL Championship 2026-27)",
-        "match_name": "Wolverhampton Wanderers F.C. vs Derby County Football Club",
-        "event_name": "EFL Championship 2026-27",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4250014_52993_WOL_DER_fc-web.jpg",
-        "team_1": "Wolverhampton Wanderers F.C.",
-        "team_2": "Derby County Football Club",
-        "status": "UPCOMING",
-        "startTime": "01:30:00 AM 25-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -319,18 +307,6 @@
       },
       {
         "event_category": "Cricket",
-        "match_id": 4251085,
-        "title": "Muscat Thunderers vs Majees Titans (Oman D20 2026)",
-        "match_name": "Muscat Thunderers vs Majees Titans",
-        "event_name": "Oman D20 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4251085_53163_MUT_MAT_fc-web.jpg",
-        "team_1": "Muscat Thunderers",
-        "team_2": "Majees Titans",
-        "status": "UPCOMING",
-        "startTime": "11:30:00 AM 26-11-2026"
-      },
-      {
-        "event_category": "Cricket",
         "match_id": 4250421,
         "title": "Sydney Sixers Women vs Melbourne Stars Women (Women's Big Bash League, 2026)",
         "match_name": "Sydney Sixers Women vs Melbourne Stars Women",
@@ -340,6 +316,18 @@
         "team_2": "Melbourne Stars Women",
         "status": "UPCOMING",
         "startTime": "01:40:00 PM 26-11-2026"
+      },
+      {
+        "event_category": "Cricket",
+        "match_id": 4251085,
+        "title": "Muscat Thunderers vs Majees Titans (Oman D20 2026)",
+        "match_name": "Muscat Thunderers vs Majees Titans",
+        "event_name": "Oman D20 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4251085_53163_MUT_MAT_fc-web.jpg",
+        "team_1": "Muscat Thunderers",
+        "team_2": "Majees Titans",
+        "status": "UPCOMING",
+        "startTime": "11:30:00 AM 26-11-2026"
       },
       {
         "event_category": "Cricket",
