@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-24 18:32:07 UTC",
+  "last_updated": "2026-11-24 19:42:43 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:48:16 PM 24-11-2026",
+    "last update time": "12:59:47 AM 25-11-2026",
     "matches": [
       {
         "event_category": "Cricket",
@@ -80,26 +80,14 @@
       {
         "event_category": "Cricket",
         "match_id": 4251144,
-        "title": "TBC vs TBC (Italia T10 2026)",
-        "match_name": "TBC vs TBC",
+        "title": "Venice Livewires vs Napoli Knights (Italia T10 2026)",
+        "match_name": "Venice Livewires vs Napoli Knights",
         "event_name": "Italia T10 2026",
         "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "team_1": "TBC",
-        "team_2": "TBC",
+        "team_1": "Venice Livewires",
+        "team_2": "Napoli Knights",
         "status": "UPCOMING",
         "startTime": "04:30:00 PM 25-11-2026"
-      },
-      {
-        "event_category": "Cricket",
-        "match_id": 4251145,
-        "title": "TBC vs TBC (Italia T10 2026)",
-        "match_name": "TBC vs TBC",
-        "event_name": "Italia T10 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "team_1": "TBC",
-        "team_2": "TBC",
-        "status": "UPCOMING",
-        "startTime": "06:45:00 PM 25-11-2026"
       },
       {
         "event_category": "Football",
@@ -114,16 +102,16 @@
         "startTime": "01:30:00 AM 25-11-2026"
       },
       {
-        "event_category": "Football",
-        "match_id": 4249025,
-        "title": "Melbourne Victory vs The Cong - Viettel FC (AFC Champions League Two 2026-27)",
-        "match_name": "Melbourne Victory vs The Cong - Viettel FC",
-        "event_name": "AFC Champions League Two 2026-27",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249025_53057_MLV_CV_fc-web_1789025065668.jpg",
-        "team_1": "Melbourne Victory",
-        "team_2": "The Cong - Viettel FC",
+        "event_category": "Cricket",
+        "match_id": 4251145,
+        "title": "Brescia Lions vs Rome Gladiators (Italia T10 2026)",
+        "match_name": "Brescia Lions vs Rome Gladiators",
+        "event_name": "Italia T10 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "team_1": "Brescia Lions",
+        "team_2": "Rome Gladiators",
         "status": "UPCOMING",
-        "startTime": "01:15:00 PM 25-11-2026"
+        "startTime": "06:45:00 PM 25-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -136,6 +124,18 @@
         "team_2": "Australasia",
         "status": "UPCOMING",
         "startTime": "02:30:00 PM 25-11-2026"
+      },
+      {
+        "event_category": "Football",
+        "match_id": 4249025,
+        "title": "Melbourne Victory vs The Cong - Viettel FC (AFC Champions League Two 2026-27)",
+        "match_name": "Melbourne Victory vs The Cong - Viettel FC",
+        "event_name": "AFC Champions League Two 2026-27",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249025_53057_MLV_CV_fc-web_1789025065668.jpg",
+        "team_1": "Melbourne Victory",
+        "team_2": "The Cong - Viettel FC",
+        "status": "UPCOMING",
+        "startTime": "01:15:00 PM 25-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -344,12 +344,12 @@
       {
         "event_category": "Cricket",
         "match_id": 4251146,
-        "title": "TBC vs TBC (Italia T10 2026)",
-        "match_name": "TBC vs TBC",
+        "title": "Rome Gladiators vs Napoli Knights (Italia T10 2026)",
+        "match_name": "Rome Gladiators vs Napoli Knights",
         "event_name": "Italia T10 2026",
         "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "team_1": "TBC",
-        "team_2": "TBC",
+        "team_1": "Rome Gladiators",
+        "team_2": "Napoli Knights",
         "status": "UPCOMING",
         "startTime": "04:30:00 PM 26-11-2026"
       },
@@ -404,12 +404,12 @@
       {
         "event_category": "Cricket",
         "match_id": 4251147,
-        "title": "TBC vs TBC (Italia T10 2026)",
-        "match_name": "TBC vs TBC",
+        "title": "Brescia Lions vs Venice Livewires (Italia T10 2026)",
+        "match_name": "Brescia Lions vs Venice Livewires",
         "event_name": "Italia T10 2026",
         "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "team_1": "TBC",
-        "team_2": "TBC",
+        "team_1": "Brescia Lions",
+        "team_2": "Venice Livewires",
         "status": "UPCOMING",
         "startTime": "06:45:00 PM 26-11-2026"
       },
@@ -436,6 +436,42 @@
         "team_2": "Adelaide United",
         "status": "UPCOMING",
         "startTime": "05:45:00 PM 26-11-2026"
+      },
+      {
+        "event_category": "Football",
+        "match_id": 4249030,
+        "title": "Preah Khan Reach Svay Rieng FC vs Machida Zelvia (AFC Champions League Two 2026-27)",
+        "match_name": "Preah Khan Reach Svay Rieng FC vs Machida Zelvia",
+        "event_name": "AFC Champions League Two 2026-27",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249030_53057_PRK_MZ_fc-web_1789025065494.jpg",
+        "team_1": "Preah Khan Reach Svay Rieng FC",
+        "team_2": "Machida Zelvia",
+        "status": "UPCOMING",
+        "startTime": "05:45:00 PM 26-11-2026"
+      },
+      {
+        "event_category": "Golf",
+        "match_id": 4250886,
+        "title": "Day 1 vs Málaga, Spain (Andalucia Costa Del Sol Open De Espana 2026)",
+        "match_name": "Day 1",
+        "event_name": "Andalucia Costa Del Sol Open De Espana 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg",
+        "team_1": "Day 1",
+        "team_2": "Málaga, Spain",
+        "status": "UPCOMING",
+        "startTime": "02:15:00 PM 26-11-2026"
+      },
+      {
+        "event_category": "Cricket",
+        "match_id": 4251055,
+        "title": "Abu Dhabi Knight Riders vs MI Emirates (DP World ILT20 2026)",
+        "match_name": "Abu Dhabi Knight Riders vs MI Emirates",
+        "event_name": "DP World ILT20 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4251055_53162_ADKR_MIE_FC-WEB.jpg",
+        "team_1": "Abu Dhabi Knight Riders",
+        "team_2": "MI Emirates",
+        "status": "UPCOMING",
+        "startTime": "08:00:00 PM 26-11-2026"
       }
     ]
   }
