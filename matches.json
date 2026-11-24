@@ -1,22 +1,10 @@
 {
-  "last_updated": "2026-11-24 01:20:04 UTC",
+  "last_updated": "2026-11-24 02:30:41 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:35:05 AM 24-11-2026",
+    "last update time": "07:57:36 AM 24-11-2026",
     "matches": [
-      {
-        "event_category": "Cricket",
-        "match_id": 4249675,
-        "title": "Tasmania vs Western Australia (Sheffield Shield, 2026/27)",
-        "match_name": "Tasmania vs Western Australia",
-        "event_name": "Sheffield Shield, 2026/27",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249675_53087_WAU_TAS_FC-WEB.jpg",
-        "team_1": "Tasmania",
-        "team_2": "Western Australia",
-        "status": "PAUSED",
-        "startTime": "08:00:00 AM 23-11-2026"
-      },
       {
         "event_category": "Cricket",
         "match_id": 4250651,
@@ -258,18 +246,6 @@
         "startTime": "01:15:00 PM 25-11-2026"
       },
       {
-        "event_category": "Golf",
-        "match_id": 4250615,
-        "title": "ATL vs BOS vs Palm Beach Gardens, FL (WTGL 2026)",
-        "match_name": "ATL vs BOS",
-        "event_name": "WTGL 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4_web.png",
-        "team_1": "ATL vs BOS",
-        "team_2": "Palm Beach Gardens, FL",
-        "status": "UPCOMING",
-        "startTime": "06:30:00 AM 25-11-2026"
-      },
-      {
         "event_category": "Cricket",
         "match_id": 4251144,
         "title": "TBC vs TBC (Italia T10 2026)",
@@ -280,6 +256,18 @@
         "team_2": "TBC",
         "status": "UPCOMING",
         "startTime": "04:30:00 PM 25-11-2026"
+      },
+      {
+        "event_category": "Golf",
+        "match_id": 4250615,
+        "title": "ATL vs BOS vs Palm Beach Gardens, FL (WTGL 2026)",
+        "match_name": "ATL vs BOS",
+        "event_name": "WTGL 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4_web.png",
+        "team_1": "ATL vs BOS",
+        "team_2": "Palm Beach Gardens, FL",
+        "status": "UPCOMING",
+        "startTime": "06:30:00 AM 25-11-2026"
       },
       {
         "event_category": "Cricket",
