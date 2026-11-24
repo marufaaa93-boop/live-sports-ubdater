@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-24 04:44:01 UTC",
+  "last_updated": "2026-11-24 05:41:15 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:41:29 AM 24-11-2026",
+    "last update time": "11:03:39 AM 24-11-2026",
     "matches": [
       {
         "event_category": "Cricket",
@@ -78,6 +78,18 @@
         "startTime": "01:15:00 PM 24-11-2026"
       },
       {
+        "event_category": "Cricket",
+        "match_id": 4251053,
+        "title": "Gulf Giants vs MI Emirates (DP World ILT20 2026)",
+        "match_name": "Gulf Giants vs MI Emirates",
+        "event_name": "DP World ILT20 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4251053_53162_GG_MIE_FC-WEB.jpg",
+        "team_1": "Gulf Giants",
+        "team_2": "MI Emirates",
+        "status": "UPCOMING",
+        "startTime": "08:00:00 PM 24-11-2026"
+      },
+      {
         "event_category": "Football",
         "match_id": 4248753,
         "title": "Daejeon Hana Citizen FC vs Beijing Guoan (AFC Champions League Elite 2026-27)",
@@ -100,18 +112,6 @@
         "team_2": "Pohang Steelers",
         "status": "UPCOMING",
         "startTime": "03:30:00 PM 24-11-2026"
-      },
-      {
-        "event_category": "Cricket",
-        "match_id": 4251053,
-        "title": "Gulf Giants vs MI Emirates (DP World ILT20 2026)",
-        "match_name": "Gulf Giants vs MI Emirates",
-        "event_name": "DP World ILT20 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4251053_53162_GG_MIE_FC-WEB.jpg",
-        "team_1": "Gulf Giants",
-        "team_2": "MI Emirates",
-        "status": "UPCOMING",
-        "startTime": "08:00:00 PM 24-11-2026"
       },
       {
         "event_category": "Football",
@@ -270,18 +270,6 @@
         "startTime": "02:30:00 PM 25-11-2026"
       },
       {
-        "event_category": "Golf",
-        "match_id": 4250615,
-        "title": "ATL vs BOS vs Palm Beach Gardens, FL (WTGL 2026)",
-        "match_name": "ATL vs BOS",
-        "event_name": "WTGL 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4_web.png",
-        "team_1": "ATL vs BOS",
-        "team_2": "Palm Beach Gardens, FL",
-        "status": "UPCOMING",
-        "startTime": "06:30:00 AM 25-11-2026"
-      },
-      {
         "event_category": "Football",
         "match_id": 4248758,
         "title": "Kashima Antlers vs Jeonbuk Motors (AFC Champions League Elite 2026-27)",
@@ -304,6 +292,18 @@
         "team_2": "Port FC",
         "status": "UPCOMING",
         "startTime": "03:30:00 PM 25-11-2026"
+      },
+      {
+        "event_category": "Golf",
+        "match_id": 4250615,
+        "title": "ATL vs BOS vs Palm Beach Gardens, FL (WTGL 2026)",
+        "match_name": "ATL vs BOS",
+        "event_name": "WTGL 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4_web.png",
+        "team_1": "ATL vs BOS",
+        "team_2": "Palm Beach Gardens, FL",
+        "status": "UPCOMING",
+        "startTime": "06:30:00 AM 25-11-2026"
       },
       {
         "event_category": "Cricket",
