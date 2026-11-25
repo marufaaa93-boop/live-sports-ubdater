@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-25 16:54:29 UTC",
+  "last_updated": "2026-11-25 17:39:53 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:59:57 PM 25-11-2026",
+    "last update time": "11:03:16 PM 25-11-2026",
     "matches": [
       {
         "event_category": "Cricket",
@@ -54,6 +54,18 @@
         "startTime": "01:40:00 PM 26-11-2026"
       },
       {
+        "event_category": "Football",
+        "match_id": 4249022,
+        "title": "Al-Taawoun FC vs Al-Nahda Club (AFC Champions League Two 2026-27)",
+        "match_name": "Al-Taawoun FC vs Al-Nahda Club",
+        "event_name": "AFC Champions League Two 2026-27",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249022_53057_ALTW_ALN_fc-web_1789025065804.jpg",
+        "team_1": "Al-Taawoun FC",
+        "team_2": "Al-Nahda Club",
+        "status": "UPCOMING",
+        "startTime": "11:45:00 PM 25-11-2026"
+      },
+      {
         "event_category": "Cricket",
         "match_id": 4251146,
         "title": "Rome Gladiators vs Napoli Knights (Italia T10 2026)",
@@ -76,18 +88,6 @@
         "team_2": "Venice Livewires",
         "status": "UPCOMING",
         "startTime": "06:45:00 PM 26-11-2026"
-      },
-      {
-        "event_category": "Football",
-        "match_id": 4249022,
-        "title": "Al-Taawoun FC vs Al-Nahda Club (AFC Champions League Two 2026-27)",
-        "match_name": "Al-Taawoun FC vs Al-Nahda Club",
-        "event_name": "AFC Champions League Two 2026-27",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249022_53057_ALTW_ALN_fc-web_1789025065804.jpg",
-        "team_1": "Al-Taawoun FC",
-        "team_2": "Al-Nahda Club",
-        "status": "UPCOMING",
-        "startTime": "11:45:00 PM 25-11-2026"
       },
       {
         "event_category": "Football",
