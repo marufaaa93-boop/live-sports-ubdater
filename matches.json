@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-26 13:48:46 UTC",
+  "last_updated": "2026-11-26 14:49:13 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:55:38 PM 26-11-2026",
+    "last update time": "07:58:34 PM 26-11-2026",
     "matches": [
       {
         "event_category": "Cricket",
@@ -16,6 +16,18 @@
         "team_2": "Victoria",
         "status": "PAUSED",
         "startTime": "05:30:00 AM 24-11-2026"
+      },
+      {
+        "event_category": "Cricket",
+        "match_id": 4251087,
+        "title": "IAS Invincibles vs Yalla Shabab Giants (Oman D20 2026)",
+        "match_name": "IAS Invincibles vs Yalla Shabab Giants",
+        "event_name": "Oman D20 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4251087_53163_IAI_YSG_fc-web.jpg",
+        "team_1": "IAS Invincibles",
+        "team_2": "Yalla Shabab Giants",
+        "status": "UPCOMING",
+        "startTime": "08:30:00 PM 26-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -43,30 +55,6 @@
       },
       {
         "event_category": "Cricket",
-        "match_id": 4251055,
-        "title": "Abu Dhabi Knight Riders vs MI Emirates (DP World ILT20 2026)",
-        "match_name": "Abu Dhabi Knight Riders vs MI Emirates",
-        "event_name": "DP World ILT20 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4251055_53162_ADKR_MIE_FC-WEB.jpg",
-        "team_1": "Abu Dhabi Knight Riders",
-        "team_2": "MI Emirates",
-        "status": "UPCOMING",
-        "startTime": "08:00:00 PM 26-11-2026"
-      },
-      {
-        "event_category": "Cricket",
-        "match_id": 4251087,
-        "title": "IAS Invincibles vs Yalla Shabab Giants (Oman D20 2026)",
-        "match_name": "IAS Invincibles vs Yalla Shabab Giants",
-        "event_name": "Oman D20 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4251087_53163_IAI_YSG_fc-web.jpg",
-        "team_1": "IAS Invincibles",
-        "team_2": "Yalla Shabab Giants",
-        "status": "UPCOMING",
-        "startTime": "08:30:00 PM 26-11-2026"
-      },
-      {
-        "event_category": "Cricket",
         "match_id": 4251148,
         "title": "Rome Gladiators vs Venice Livewires (Italia T10 2026)",
         "match_name": "Rome Gladiators vs Venice Livewires",
@@ -76,6 +64,18 @@
         "team_2": "Venice Livewires",
         "status": "UPCOMING",
         "startTime": "04:30:00 PM 27-11-2026"
+      },
+      {
+        "event_category": "Cricket",
+        "match_id": 4251149,
+        "title": "Brescia Lions vs Napoli Knights (Italia T10 2026)",
+        "match_name": "Brescia Lions vs Napoli Knights",
+        "event_name": "Italia T10 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4251149_53165_BL_NP_fc-web.jpg",
+        "team_1": "Brescia Lions",
+        "team_2": "Napoli Knights",
+        "status": "UPCOMING",
+        "startTime": "06:45:00 PM 27-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -91,15 +91,15 @@
       },
       {
         "event_category": "Cricket",
-        "match_id": 4251149,
-        "title": "Brescia Lions vs Napoli Knights (Italia T10 2026)",
-        "match_name": "Brescia Lions vs Napoli Knights",
-        "event_name": "Italia T10 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4251149_53165_BL_NP_fc-web.jpg",
-        "team_1": "Brescia Lions",
-        "team_2": "Napoli Knights",
+        "match_id": 4250957,
+        "title": "Sub Saharan Africa vs Europe (Test Twenty Championship 2026)",
+        "match_name": "Sub Saharan Africa vs Europe",
+        "event_name": "Test Twenty Championship 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/Test_Twenty_2026FC-WEB.jpg",
+        "team_1": "Sub Saharan Africa",
+        "team_2": "Europe",
         "status": "UPCOMING",
-        "startTime": "06:45:00 PM 27-11-2026"
+        "startTime": "02:30:00 PM 27-11-2026"
       },
       {
         "event_category": "Football",
@@ -112,18 +112,6 @@
         "team_2": "Huddersfield Town A.F.C.",
         "status": "UPCOMING",
         "startTime": "01:30:00 AM 27-11-2026"
-      },
-      {
-        "event_category": "Cricket",
-        "match_id": 4250957,
-        "title": "Sub Saharan Africa vs Europe (Test Twenty Championship 2026)",
-        "match_name": "Sub Saharan Africa vs Europe",
-        "event_name": "Test Twenty Championship 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/Test_Twenty_2026FC-WEB.jpg",
-        "team_1": "Sub Saharan Africa",
-        "team_2": "Europe",
-        "status": "UPCOMING",
-        "startTime": "02:30:00 PM 27-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -424,6 +412,18 @@
         "team_2": "Norwich City F.C.",
         "status": "UPCOMING",
         "startTime": "06:00:00 PM 28-11-2026"
+      },
+      {
+        "event_category": "Football",
+        "match_id": 4249864,
+        "title": "Central Coast Mariners vs Auckland (A-League 2026-27)",
+        "match_name": "Central Coast Mariners vs Auckland",
+        "event_name": "A-League 2026-27",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249864_53101_CCM_AFC_fc-Web_1792223292223.jpg",
+        "team_1": "Central Coast Mariners",
+        "team_2": "Auckland",
+        "status": "UPCOMING",
+        "startTime": "02:10:00 PM 28-11-2026"
       }
     ]
   }
