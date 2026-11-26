@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-26 04:44:22 UTC",
+  "last_updated": "2026-11-26 05:40:43 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:09:20 AM 26-11-2026",
+    "last update time": "10:50:57 AM 26-11-2026",
     "matches": [
       {
         "event_category": "Cricket",
@@ -210,18 +210,6 @@
         "startTime": "03:40:00 PM 27-11-2026"
       },
       {
-        "event_category": "Golf",
-        "match_id": 4250886,
-        "title": "Day 1 vs Málaga, Spain (Andalucia Costa Del Sol Open De Espana 2026)",
-        "match_name": "Day 1",
-        "event_name": "Andalucia Costa Del Sol Open De Espana 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg",
-        "team_1": "Day 1",
-        "team_2": "Málaga, Spain",
-        "status": "UPCOMING",
-        "startTime": "02:15:00 PM 26-11-2026"
-      },
-      {
         "event_category": "Cricket",
         "match_id": 4251148,
         "title": "Rome Gladiators vs Venice Livewires (Italia T10 2026)",
@@ -232,6 +220,18 @@
         "team_2": "Venice Livewires",
         "status": "UPCOMING",
         "startTime": "04:30:00 PM 27-11-2026"
+      },
+      {
+        "event_category": "Golf",
+        "match_id": 4250886,
+        "title": "Day 1 vs Málaga, Spain (Andalucia Costa Del Sol Open De Espana 2026)",
+        "match_name": "Day 1",
+        "event_name": "Andalucia Costa Del Sol Open De Espana 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg",
+        "team_1": "Day 1",
+        "team_2": "Málaga, Spain",
+        "status": "UPCOMING",
+        "startTime": "02:15:00 PM 26-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -283,30 +283,6 @@
       },
       {
         "event_category": "Football",
-        "match_id": 4249863,
-        "title": "Macarthur vs Melbourne City (A-League 2026-27)",
-        "match_name": "Macarthur vs Melbourne City",
-        "event_name": "A-League 2026-27",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249863_53101_MAC_MLC_fc-Web_1792223292524.jpg",
-        "team_1": "Macarthur",
-        "team_2": "Melbourne City",
-        "status": "UPCOMING",
-        "startTime": "02:10:00 PM 27-11-2026"
-      },
-      {
-        "event_category": "Golf",
-        "match_id": 4250887,
-        "title": "Day 2 vs Málaga, Spain (Andalucia Costa Del Sol Open De Espana 2026)",
-        "match_name": "Day 2",
-        "event_name": "Andalucia Costa Del Sol Open De Espana 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg",
-        "team_1": "Day 2",
-        "team_2": "Málaga, Spain",
-        "status": "UPCOMING",
-        "startTime": "02:15:00 PM 27-11-2026"
-      },
-      {
-        "event_category": "Football",
         "match_id": 4250969,
         "title": "Al-Qadsiah FC vs Al-Fayha FC (Roshn Saudi League 2026-2027)",
         "match_name": "Al-Qadsiah FC vs Al-Fayha FC",
@@ -328,6 +304,30 @@
         "team_2": "Dubai Capitals",
         "status": "UPCOMING",
         "startTime": "08:00:00 PM 27-11-2026"
+      },
+      {
+        "event_category": "Football",
+        "match_id": 4249863,
+        "title": "Macarthur vs Melbourne City (A-League 2026-27)",
+        "match_name": "Macarthur vs Melbourne City",
+        "event_name": "A-League 2026-27",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249863_53101_MAC_MLC_fc-Web_1792223292524.jpg",
+        "team_1": "Macarthur",
+        "team_2": "Melbourne City",
+        "status": "UPCOMING",
+        "startTime": "02:10:00 PM 27-11-2026"
+      },
+      {
+        "event_category": "Golf",
+        "match_id": 4250887,
+        "title": "Day 2 vs Málaga, Spain (Andalucia Costa Del Sol Open De Espana 2026)",
+        "match_name": "Day 2",
+        "event_name": "Andalucia Costa Del Sol Open De Espana 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg",
+        "team_1": "Day 2",
+        "team_2": "Málaga, Spain",
+        "status": "UPCOMING",
+        "startTime": "02:15:00 PM 27-11-2026"
       },
       {
         "event_category": "Cricket",
