@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-27 04:10:16 UTC",
+  "last_updated": "2026-11-27 05:16:35 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:35:43 AM 27-11-2026",
+    "last update time": "10:36:54 AM 27-11-2026",
     "matches": [
       {
         "event_category": "Cricket",
@@ -210,6 +210,18 @@
         "startTime": "11:30:00 AM 28-11-2026"
       },
       {
+        "event_category": "Cricket",
+        "match_id": 4251150,
+        "title": "TBC vs TBC (Italia T10 2026)",
+        "match_name": "TBC vs TBC",
+        "event_name": "Italia T10 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "team_1": "TBC",
+        "team_2": "TBC",
+        "status": "UPCOMING",
+        "startTime": "03:30:00 PM 28-11-2026"
+      },
+      {
         "event_category": "MotoGP",
         "match_id": 139987,
         "title": "Day 1 vs Cheste (MOTUL GRAND PRIX OF VALENCIA 2026)",
@@ -270,18 +282,6 @@
         "startTime": "07:00:00 PM 27-11-2026"
       },
       {
-        "event_category": "Cricket",
-        "match_id": 4251150,
-        "title": "TBC vs TBC (Italia T10 2026)",
-        "match_name": "TBC vs TBC",
-        "event_name": "Italia T10 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "team_1": "TBC",
-        "team_2": "TBC",
-        "status": "UPCOMING",
-        "startTime": "03:30:00 PM 28-11-2026"
-      },
-      {
         "event_category": "Motorsports",
         "match_id": 139659,
         "title": "Qualifying Session vs Lusail International Circuit (F2 QATAR 2026)",
@@ -307,18 +307,6 @@
       },
       {
         "event_category": "Cricket",
-        "match_id": 4251057,
-        "title": "MI Emirates vs Desert Vipers (DP World ILT20 2026)",
-        "match_name": "MI Emirates vs Desert Vipers",
-        "event_name": "DP World ILT20 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4251057_53162_MIE_DV_FC-WEB.jpg",
-        "team_1": "MI Emirates",
-        "team_2": "Desert Vipers",
-        "status": "UPCOMING",
-        "startTime": "03:30:00 PM 28-11-2026"
-      },
-      {
-        "event_category": "Cricket",
         "match_id": 4251151,
         "title": "TBC vs TBC (Italia T10 2026)",
         "match_name": "TBC vs TBC",
@@ -328,6 +316,18 @@
         "team_2": "TBC",
         "status": "UPCOMING",
         "startTime": "06:00:00 PM 28-11-2026"
+      },
+      {
+        "event_category": "Cricket",
+        "match_id": 4251057,
+        "title": "MI Emirates vs Desert Vipers (DP World ILT20 2026)",
+        "match_name": "MI Emirates vs Desert Vipers",
+        "event_name": "DP World ILT20 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4251057_53162_MIE_DV_FC-WEB.jpg",
+        "team_1": "MI Emirates",
+        "team_2": "Desert Vipers",
+        "status": "UPCOMING",
+        "startTime": "03:30:00 PM 28-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -391,18 +391,6 @@
       },
       {
         "event_category": "Football",
-        "match_id": 4249864,
-        "title": "Central Coast Mariners vs Auckland (A-League 2026-27)",
-        "match_name": "Central Coast Mariners vs Auckland",
-        "event_name": "A-League 2026-27",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249864_53101_CCM_AFC_fc-Web_1792223292223.jpg",
-        "team_1": "Central Coast Mariners",
-        "team_2": "Auckland",
-        "status": "UPCOMING",
-        "startTime": "02:10:00 PM 28-11-2026"
-      },
-      {
-        "event_category": "Football",
         "match_id": 4250972,
         "title": "Al-Ettifaq vs Al Hilal SFC (Roshn Saudi League 2026-2027)",
         "match_name": "Al-Ettifaq vs Al Hilal SFC",
@@ -424,6 +412,18 @@
         "team_2": "Dubai Capitals",
         "status": "UPCOMING",
         "startTime": "08:00:00 PM 28-11-2026"
+      },
+      {
+        "event_category": "Football",
+        "match_id": 4249864,
+        "title": "Central Coast Mariners vs Auckland (A-League 2026-27)",
+        "match_name": "Central Coast Mariners vs Auckland",
+        "event_name": "A-League 2026-27",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4249864_53101_CCM_AFC_fc-Web_1792223292223.jpg",
+        "team_1": "Central Coast Mariners",
+        "team_2": "Auckland",
+        "status": "UPCOMING",
+        "startTime": "02:10:00 PM 28-11-2026"
       },
       {
         "event_category": "Cricket",
