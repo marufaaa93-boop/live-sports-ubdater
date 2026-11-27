@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-27 16:54:34 UTC",
+  "last_updated": "2026-11-27 17:44:54 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:18:34 PM 27-11-2026",
+    "last update time": "10:50:08 PM 27-11-2026",
     "matches": [
       {
         "event_category": "Cricket",
@@ -28,18 +28,6 @@
         "team_2": "Sydney Sixers Women",
         "status": "UPCOMING",
         "startTime": "01:40:00 PM 28-11-2026"
-      },
-      {
-        "event_category": "Football",
-        "match_id": 4250970,
-        "title": "Al-Ittihad vs Neom SC (Roshn Saudi League 2026-2027)",
-        "match_name": "Al-Ittihad vs Neom SC",
-        "event_name": "Roshn Saudi League 2026-2027",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4250970_53025_ITT_NEOM_FC-Web_1795077036094.png",
-        "team_1": "Al-Ittihad",
-        "team_2": "Neom SC",
-        "status": "UPCOMING",
-        "startTime": "11:00:00 PM 27-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -436,6 +424,18 @@
         "team_2": "Cardiff City",
         "status": "UPCOMING",
         "startTime": "05:30:00 PM 29-11-2026"
+      },
+      {
+        "event_category": "Football",
+        "match_id": 4247699,
+        "title": "Valencia CF vs CA Osasuna (LALIGA 2026-27)",
+        "match_name": "Valencia CF vs CA Osasuna",
+        "event_name": "LALIGA 2026-27",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4247699_53004_VAL_OSN_FC-Web.png",
+        "team_1": "Valencia CF",
+        "team_2": "CA Osasuna",
+        "status": "UPCOMING",
+        "startTime": "06:30:00 PM 29-11-2026"
       }
     ]
   }
