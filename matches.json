@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-27 05:16:35 UTC",
+  "last_updated": "2026-11-27 06:24:54 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:36:54 AM 27-11-2026",
+    "last update time": "11:48:38 AM 27-11-2026",
     "matches": [
       {
         "event_category": "Cricket",
@@ -52,18 +52,6 @@
         "team_2": "Napoli Knights",
         "status": "UPCOMING",
         "startTime": "06:45:00 PM 27-11-2026"
-      },
-      {
-        "event_category": "Cricket",
-        "match_id": 4250910,
-        "title": "Sohar Smashers Women vs OCA Invincibles Women (Oman Women's D20, 2026)",
-        "match_name": "Sohar Smashers Women vs OCA Invincibles Women",
-        "event_name": "Oman Women's D20, 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-        "team_1": "Sohar Smashers Women",
-        "team_2": "OCA Invincibles Women",
-        "status": "UPCOMING",
-        "startTime": "11:30:00 AM 27-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -126,6 +114,18 @@
         "startTime": "07:50:00 PM 27-11-2026"
       },
       {
+        "event_category": "Cricket",
+        "match_id": 4250423,
+        "title": "Melbourne Renegades Women vs Melbourne Stars Women (Women's Big Bash League, 2026)",
+        "match_name": "Melbourne Renegades Women vs Melbourne Stars Women",
+        "event_name": "Women's Big Bash League, 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4250423_53125_MR-W_MS-W_fc-web_1793352702065.jpg",
+        "team_1": "Melbourne Renegades Women",
+        "team_2": "Melbourne Stars Women",
+        "status": "UPCOMING",
+        "startTime": "10:10:00 AM 28-11-2026"
+      },
+      {
         "event_category": "Football",
         "match_id": 4250970,
         "title": "Al-Ittihad vs Neom SC (Roshn Saudi League 2026-2027)",
@@ -160,18 +160,6 @@
         "team_2": "Middlesbrough F.C.",
         "status": "UPCOMING",
         "startTime": "01:30:00 AM 28-11-2026"
-      },
-      {
-        "event_category": "Cricket",
-        "match_id": 4250423,
-        "title": "Melbourne Renegades Women vs Melbourne Stars Women (Women's Big Bash League, 2026)",
-        "match_name": "Melbourne Renegades Women vs Melbourne Stars Women",
-        "event_name": "Women's Big Bash League, 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4250423_53125_MR-W_MS-W_fc-web_1793352702065.jpg",
-        "team_1": "Melbourne Renegades Women",
-        "team_2": "Melbourne Stars Women",
-        "status": "UPCOMING",
-        "startTime": "10:10:00 AM 28-11-2026"
       },
       {
         "event_category": "Football",
