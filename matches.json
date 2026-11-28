@@ -1,22 +1,10 @@
 {
-  "last_updated": "2026-11-28 09:32:23 UTC",
+  "last_updated": "2026-11-28 10:32:47 UTC",
   "matches": {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:39:28 PM 28-11-2026",
+    "last update time": "03:20:57 PM 28-11-2026",
     "matches": [
-      {
-        "event_category": "Cricket",
-        "match_id": 4251150,
-        "title": "Venice Livewires vs Napoli Knights (Italia T10 2026)",
-        "match_name": "Venice Livewires vs Napoli Knights",
-        "event_name": "Italia T10 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/Venice-Livewires-vs-Napoli-Knights_web.png",
-        "team_1": "Venice Livewires",
-        "team_2": "Napoli Knights",
-        "status": "UPCOMING",
-        "startTime": "03:30:00 PM 28-11-2026"
-      },
       {
         "event_category": "Cricket",
         "match_id": 4251151,
@@ -28,18 +16,6 @@
         "team_2": "Rome Gladiators",
         "status": "UPCOMING",
         "startTime": "06:00:00 PM 28-11-2026"
-      },
-      {
-        "event_category": "Cricket",
-        "match_id": 4251057,
-        "title": "MI Emirates vs Desert Vipers (DP World ILT20 2026)",
-        "match_name": "MI Emirates vs Desert Vipers",
-        "event_name": "DP World ILT20 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4251057_53162_MIE_DV_FC-WEB.jpg",
-        "team_1": "MI Emirates",
-        "team_2": "Desert Vipers",
-        "status": "UPCOMING",
-        "startTime": "03:30:00 PM 28-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -55,18 +31,6 @@
       },
       {
         "event_category": "Cricket",
-        "match_id": 4250426,
-        "title": "Adelaide Strikers Women vs Hobart Hurricanes Women (Women's Big Bash League, 2026)",
-        "match_name": "Adelaide Strikers Women vs Hobart Hurricanes Women",
-        "event_name": "Women's Big Bash League, 2026",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4250426_53125_AS-W_HB-W_fc-web_1793352701264.jpg",
-        "team_1": "Adelaide Strikers Women",
-        "team_2": "Hobart Hurricanes Women",
-        "status": "UPCOMING",
-        "startTime": "10:00:00 AM 29-11-2026"
-      },
-      {
-        "event_category": "Cricket",
         "match_id": 4250913,
         "title": "Sohar Smashers Women vs Ghubra Giants Women (Oman Women's D20, 2026)",
         "match_name": "Sohar Smashers Women vs Ghubra Giants Women",
@@ -76,6 +40,18 @@
         "team_2": "Ghubra Giants Women",
         "status": "UPCOMING",
         "startTime": "04:00:00 PM 28-11-2026"
+      },
+      {
+        "event_category": "Cricket",
+        "match_id": 4250426,
+        "title": "Adelaide Strikers Women vs Hobart Hurricanes Women (Women's Big Bash League, 2026)",
+        "match_name": "Adelaide Strikers Women vs Hobart Hurricanes Women",
+        "event_name": "Women's Big Bash League, 2026",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4250426_53125_AS-W_HB-W_fc-web_1793352701264.jpg",
+        "team_1": "Adelaide Strikers Women",
+        "team_2": "Hobart Hurricanes Women",
+        "status": "UPCOMING",
+        "startTime": "10:00:00 AM 29-11-2026"
       },
       {
         "event_category": "Cricket",
@@ -270,6 +246,18 @@
         "startTime": "04:00:00 PM 29-11-2026"
       },
       {
+        "event_category": "Football",
+        "match_id": 4250019,
+        "title": "Swansea City A.F.C. vs Cardiff City (EFL Championship 2026-27)",
+        "match_name": "Swansea City A.F.C. vs Cardiff City",
+        "event_name": "EFL Championship 2026-27",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/4250019_52993_SWA_CAR_fc-web.jpg",
+        "team_1": "Swansea City A.F.C.",
+        "team_2": "Cardiff City",
+        "status": "UPCOMING",
+        "startTime": "05:30:00 PM 29-11-2026"
+      },
+      {
         "event_category": "Golf",
         "match_id": 4250888,
         "title": "Day 3 vs Málaga, Spain (Andalucia Costa Del Sol Open De Espana 2026)",
@@ -316,18 +304,6 @@
         "team_2": "Lusail International Circuit",
         "status": "UPCOMING",
         "startTime": "11:30:00 PM 28-11-2026"
-      },
-      {
-        "event_category": "Football",
-        "match_id": 4250019,
-        "title": "Swansea City A.F.C. vs Cardiff City (EFL Championship 2026-27)",
-        "match_name": "Swansea City A.F.C. vs Cardiff City",
-        "event_name": "EFL Championship 2026-27",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/4250019_52993_SWA_CAR_fc-web.jpg",
-        "team_1": "Swansea City A.F.C.",
-        "team_2": "Cardiff City",
-        "status": "UPCOMING",
-        "startTime": "05:30:00 PM 29-11-2026"
       },
       {
         "event_category": "Football",
